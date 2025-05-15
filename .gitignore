@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+venv/
+
+# Config VSCode u otros editores
+*.code-workspace
+.vscode/
